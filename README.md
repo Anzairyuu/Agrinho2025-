@@ -12,6 +12,7 @@ Um jogo incremental simples onde você clica em um tomate para ganhar pontos, co
 - Ative a habilidade "Agricultura Familiar" para dobrar o ganho por clique por 10 segundos (custa moedas).
 - Ative a habilidade "merenda escolar" para dobrar o ganho de pontos (todos os meidos) por 30 segundos(custa moedas).
 - Veja sua produção automática aumentando com cursores e fábricas de ketchup!
+- com 100000 pontos de renacimento. 
 
 ## Funcionalidades
 
@@ -23,3 +24,5 @@ Um jogo incremental simples onde você clica em um tomate para ganhar pontos, co
 - *merenda escolar*: dobra os pontos de  PPS
 - *Vender pontos*: ganhe moedas para comprar melhorias.
 - *Pontos por segundo (PPS)*: indicador da produção automática.
+- *renacimento*: aumenta sua produção em 10%, porem volta do 0.
+   
