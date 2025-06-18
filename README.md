@@ -25,4 +25,6 @@ Um jogo incremental simples onde você clica em um tomate para ganhar pontos, co
 - *Vender pontos*: ganhe moedas para comprar melhorias.
 - *Pontos por segundo (PPS)*: indicador da produção automática.
 - *renacimento*: aumenta sua produção em 10%, porem volta do 0.
-   
+
+## Referencias  
+-copilot (github).
